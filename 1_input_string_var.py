@@ -5,7 +5,7 @@ print("Hallo Welt")
 # Mit # kann man ein kommentar hinzufügen. Kommentaren sind hilfreich,
 # um den Code zu erklären
 
-input("Wie heisst du ?")
+input("Wo wohnst du?")
 # In der Konsole gibt man ein
 
 """
